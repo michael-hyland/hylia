@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Michael Hyland
+title: Michael Hyland poop
 metaTitle: ""
 metaDesc: ""
 postsHeading: Latest posts
